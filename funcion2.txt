@@ -1,1 +1,2 @@
 archivo de funcionalidad2
+clonar
